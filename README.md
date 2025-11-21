@@ -1,0 +1,5 @@
+# Vega20-MI50-Cooling-Performance_FOX-2-Blower
+Since I already did the performance per PPT test, it is really un-necessary here, the main x factor tested is that the shrouded 80mm is removed and a FOX-2 turbine is tied to the front bracket.
+
+I think it's best we view the raw logs to get a idea of how it feels.
+The logs contain edge, junction, VRAM temperatures, along with the corresponding PPT. The recordings run every 2 seconds, therefore the number on top actually shows the time elapsed if multiplied by 2.

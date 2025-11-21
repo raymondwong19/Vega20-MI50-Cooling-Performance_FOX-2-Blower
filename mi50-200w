@@ -1,0 +1,290 @@
+
+1
+edge:         +32.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +34.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +39.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:          17.00 W  (cap = 200.00 W)
+
+
+2
+edge:         +41.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +61.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +49.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         200.00 W  (cap = 200.00 W)
+
+
+3
+edge:         +44.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +63.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +52.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         201.00 W  (cap = 200.00 W)
+
+
+4
+edge:         +46.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +65.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +55.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         199.00 W  (cap = 200.00 W)
+
+
+5
+edge:         +47.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +67.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +56.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         203.00 W  (cap = 200.00 W)
+
+
+6
+edge:         +48.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +69.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +59.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         200.00 W  (cap = 200.00 W)
+
+
+7
+edge:         +50.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +70.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +59.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         204.00 W  (cap = 200.00 W)
+
+
+8
+edge:         +51.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +71.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +59.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         201.00 W  (cap = 200.00 W)
+
+
+9
+edge:         +53.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +73.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +60.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         195.00 W  (cap = 200.00 W)
+
+
+10
+edge:         +54.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +74.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +62.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         189.00 W  (cap = 200.00 W)
+
+
+11
+edge:         +55.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +75.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +64.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         193.00 W  (cap = 200.00 W)
+
+
+12
+edge:         +57.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +77.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +66.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         196.00 W  (cap = 200.00 W)
+
+
+13
+edge:         +58.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +78.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +67.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         196.00 W  (cap = 200.00 W)
+
+
+14
+edge:         +59.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +79.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +68.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         198.00 W  (cap = 200.00 W)
+
+
+15
+edge:         +61.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +81.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +69.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         186.00 W  (cap = 200.00 W)
+
+
+16
+edge:         +61.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +82.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +70.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         195.00 W  (cap = 200.00 W)
+
+
+17
+edge:         +63.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +83.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +69.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         186.00 W  (cap = 200.00 W)
+
+
+18
+edge:         +63.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +84.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +69.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         202.00 W  (cap = 200.00 W)
+
+
+19
+edge:         +65.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +86.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +71.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         204.00 W  (cap = 200.00 W)
+
+
+20
+edge:         +66.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +87.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +71.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         199.00 W  (cap = 200.00 W)
+
+
+21
+edge:         +67.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +88.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +73.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         200.00 W  (cap = 200.00 W)
+
+
+22
+edge:         +67.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +89.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +74.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         209.00 W  (cap = 200.00 W)
+
+
+23
+edge:         +68.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +91.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +76.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         195.00 W  (cap = 200.00 W)
+
+
+24
+edge:         +69.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +91.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +77.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         196.00 W  (cap = 200.00 W)
+
+
+25
+edge:         +70.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +92.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +77.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         197.00 W  (cap = 200.00 W)
+
+
+26
+edge:         +71.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +92.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +78.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         196.00 W  (cap = 200.00 W)
+
+
+27
+edge:         +71.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +93.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +78.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:         195.00 W  (cap = 200.00 W)
+
+
+28
+edge:         +66.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +67.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +69.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:          20.00 W  (cap = 200.00 W)
+
+
+29
+edge:         +63.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+junction:     +64.0°C  (crit = +100.0°C, hyst = -273.1°C)
+                       (emerg = +105.0°C)
+mem:          +67.0°C  (crit = +94.0°C, hyst = -273.1°C)
+                       (emerg = +99.0°C)
+PPT:          20.00 W  (cap = 200.00 W)
+
